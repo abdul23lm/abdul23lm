@@ -1,6 +1,6 @@
-### Hi there, I am Abdul LM 🤠
+### Hi there, I am Abdul Latif Munjiat 🤠
 
-Web and Mobile Developer. You can call me "Abdul LM"
+Web and Mobile Developer. You can call me "Abdul"
 
 - ⭐️ Founder of [Decodev](https://decodev.id/).
 - 🔭 Working on helping people to develop the best solution for their communication needs with [Decodev](https://decodev.id/) services.
