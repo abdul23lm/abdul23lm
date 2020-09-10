@@ -70,7 +70,7 @@ Don't let your imagination rest!
 
 ---
 
-[![Abdul's github stats](https://github-readme-stats.vercel.app/api?username=abdul23lm)]
+![Abdul's github stats](https://github-readme-stats.vercel.app/api?username=abdul23lm)
 
 [website]: http://decodev.id
 [facebook]: https://facebook.com/abdul23lm
