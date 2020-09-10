@@ -2,7 +2,7 @@
 
 You can call me "Abdul"
 
-[![Website](https://img.shields.io/website?label=decodev.id&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://decodev.id)
+[![Website](https://img.shields.io/website?label=decodev.id&style=for-the-badge&url=http://decodev.id)](https://decodev.id)
 
 ## I'm a Full-Stack Developer!
 
