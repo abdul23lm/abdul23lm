@@ -66,16 +66,11 @@ Don't let your imagination rest!
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://decodev.id)
+➡️ [more article posts...](https://decodev.id)
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Abdul LM's Github Stats" src="https://github-readme-stats.abdul23lm.vercel.app/api?username=abdul23lm&show_icons=true&hide_border=true" />
-
-</details>
+[![Abdul's github stats](https://github-readme-stats.vercel.app/api?username=abdul23lm)]
 
 [website]: http://decodev.id
 [facebook]: https://facebook.com/abdul23lm
