@@ -60,7 +60,7 @@ Don't let your imagination rest!
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more article posts...](https://decodev.id)
+➡️ [more article posts...](https://decodev.id/list-of-articles)
 
 ---
 
