@@ -64,8 +64,6 @@ Don't let your imagination rest!
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul23lm&layout=compact)](https://github.com/abdul23lm/github-readme-stats)
-
 ![Abdul's github stats](https://github-readme-stats.vercel.app/api?username=abdul23lm)
 
 [website]: http://decodev.id
