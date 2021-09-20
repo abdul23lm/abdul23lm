@@ -2,7 +2,7 @@
 
 You can call me "Abdul"
 
-[![Website](https://img.shields.io/website?label=decodev.id&style=for-the-badge&url=https://abdullatifmunjiat.com)](https://abdullatifmunjiat.com)
+[![Website](https://img.shields.io/website?label=abdullatifmunjiat.com&style=for-the-badge&url=https://abdullatifmunjiat.com)](https://abdullatifmunjiat.com)
 
 ## I'm a Software Developer!
 
