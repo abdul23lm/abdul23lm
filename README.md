@@ -5,13 +5,13 @@ You can call me "Abdul"
 [![Website](https://img.shields.io/website?label=abdullatifmunjiat.com&style=for-the-badge&url=https://abdullatifmunjiat.com)](https://abdullatifmunjiat.com)
 
 ## I'm a Software Developer!
-- 🔥 Work for [Invesnow](https://invesnow.id/) & [InArray](https://inarray.id/)
+- 🔥 Been working for [Invesnow](https://invesnow.id/), [InArray](https://inarray.id/), & [Capio](https://capioteknologi.co.id/)
 - ⭐️ Founder of [Decodev](https://decodev.id/) & [Hawede](https://hawede.id/).
 - 🔭 Working on helping people to develop the best solution for their communication needs with [Decodev](https://decodev.id/) services.
 - 🍀 Provides website invitation services, videos and pictures for wedding events with [Hawede](https://hawede.id/).
-- 💫 Learning more about advanced Laravel, MEVN & MERN Stack on Web Development. In the other hand learning more about React Native on Mobile Development.
+- 💫 Learning more about advanced MEVN & MERN Stack on Web Development. In the other hand learning more about React Native on Mobile Development.
 - 💬 Ask me about anything relevant to software engineering, ui/ux design and videography.
-- 📫 Read more of contact me via email abdul@decodev.id, [Instagram](https://instagram.com/abdul_lm), [Twitter](https://twitter.com/abdul_lm), or [LinkedIn](https://www.linkedin.com/in/abdul23lm/).
+- 📫 Read more of contact me via email abdul23lm@gmail.com, [Instagram](https://instagram.com/abdul_lm), [Twitter](https://twitter.com/abdul_lm), or [LinkedIn](https://www.linkedin.com/in/abdul23lm/).
 
 Don't let your imagination rest!
 
@@ -59,7 +59,7 @@ Don't let your imagination rest!
 
 ![Abdul's github stats](https://github-readme-stats.vercel.app/api?username=abdul23lm&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
-[website]: http://decodev.id
+[website]: https://www.abdullatifmunjiat.com
 [facebook]: https://facebook.com/abdul23lm
 [twitter]: https://twitter.com/abdul_lm
 [linkedin]: https://linkedin.com/in/abdul23lm
