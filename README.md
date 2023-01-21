@@ -9,7 +9,7 @@ You can call me "Abdul"
 - ⭐️ Founder of [Decodev](https://decodev.id/) & [Hawede](https://hawede.id/).
 - 🔭 Working on helping people to develop the best solution for their communication needs with [Decodev](https://decodev.id/) services.
 - 🍀 Provides website invitation services, videos and pictures for wedding events with [Hawede](https://hawede.id/).
-- 💫 Learning more about advanced MEVN & MERN Stack on Web Development. In the other hand learning more about React Native on Mobile Development.
+- 💫 Learning more about advanced MEVN & MERN Stack on Web Development. In the other hand learning more about Flutter on Mobile Development.
 - 💬 Ask me about anything relevant to software engineering, ui/ux design and videography.
 - 📫 Read more of contact me via email abdul23lm@gmail.com, [Instagram](https://instagram.com/abdul_lm), [Twitter](https://twitter.com/abdul_lm), or [LinkedIn](https://www.linkedin.com/in/abdul23lm/).
 
