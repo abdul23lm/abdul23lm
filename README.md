@@ -6,7 +6,7 @@ You can call me "Abdul"
 
 ## I'm a Software Engineer!
 
-- 👨‍💼 CTO of [Get Reach](https://getreach.id/).
+- 👨‍💼 Software Engineer of [Get Reach](https://getreach.id/).
 - 🔥 Been working for [InArray](https://inarray.id/), [Invesnow](https://invesnow.id/), [Osolabs](https://osolabs.com), [Capio](https://capioteknologi.co.id/), & [Otscon Inc](https://www.otscon.com).
 - ⭐️ Founder of [Inarray](https://inarray.id/) & [Hawede](https://hawede.id/).
 - 🔭 Working on helping people to develop the best solution for their communication needs with [Inarray](https://inarray.id/) services.
