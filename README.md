@@ -42,26 +42,6 @@ Don't let your imagination rest!
 <img align="left" alt="Flutter" width="26px" src="https://avatars.githubusercontent.com/u/14101776?s=40&v=4" />
 
 
-
-<br />
-<br />
-
----
-
-### 📕 Latest Article Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Laravel 8 akan Segera Rilis. Simak beberapa Bocoran Updatenya](http://decodev.id/article-detail/laravel-8-akan-segera-rilis-simak-beberapa-bocoran-updatenya)
-- [Mengenal TALL Stack (Tailwind CSS, AlpineJS, Laravel, dan Livewire)](http://decodev.id/article-detail/mengenal-tall-stack-tailwind-css-alpinejs-laravel-dan-livewire)
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more article posts...](https://decodev.id/list-of-articles)
-
-
----
-
 ![Abdul's github stats](https://github-readme-stats.vercel.app/api?username=abdul23lm&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
 [website]: https://www.abdullatifmunjiat.com
