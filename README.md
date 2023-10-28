@@ -2,7 +2,7 @@
 
 You can call me "Abdul"
 
-[![Website](https://img.shields.io/website?label=abdullatifmunjiat.com&style=for-the-badge&url=https://abdullatifmunjiat.com)](https://abdullatifmunjiat.com)
+[![Website](https://img.shields.io/website?label=techwhizabdul.com&style=for-the-badge&url=https://techwhizabdul.com)](https://techwhizabdul.com/)
 
 ## I'm a Software Engineer!
 
