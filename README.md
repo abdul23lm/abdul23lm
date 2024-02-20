@@ -28,8 +28,6 @@ Don't let your imagination rest!
 [![](https://komarev.com/ghpvc/?username=abdul23lm&color=blue&label=Profile%20Views)](https://github.com/abdul23lm/abdul23lm)
 [![](https://img.shields.io/github/followers/abdul23lm?label=GitHub%20Followers)](https://github.com/abdul23lm)
 
-<br />
-
 ### Focus Tech:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -46,12 +44,7 @@ Don't let your imagination rest!
 
 
 ### Statistics
-![Abdul's github stats](https://github-readme-stats.vercel.app/api?username=abdul23lm&hide=contribs&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul23lm&hide=html,php,scss,blade,css,less,ejs,jupyter%20notebook&theme=tokyonight)](https://github.com/abdul23lm/github-readme-stats)
-
 [![Abdul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdul23lm&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/abdul23lm/github-readme-stats)
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdul23lm&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
