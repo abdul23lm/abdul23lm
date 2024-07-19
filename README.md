@@ -10,7 +10,7 @@ You can call me "Abdul"
 - 💬 Ask me about anything relevant to software engineering, or any more.
 - 📫 Read more of contact me via email abdul23lm@gmail.com.
 
-Don't let your imagination rest!
+Don't let your imagination rest 🚀
 
 ### Connect with me:
 
