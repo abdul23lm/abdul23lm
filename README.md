@@ -47,7 +47,7 @@ Don't let your imagination rest 🚀
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdul23lm&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
-[website]: https://www.abdullatifmunjiat.com
+[website]: https://www.techwhizabdul.com
 [facebook]: https://facebook.com/abdul23lm
 [twitter]: https://twitter.com/abdul_lm
 [linkedin]: https://linkedin.com/in/abdul23lm
