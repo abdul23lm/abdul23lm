@@ -8,7 +8,7 @@ You can call me "Abdul"
 
 - 🔥 Experienced software engineer with 5+ years specializing in frontend development. Skilled in crafting visually appealing web applications and mobile solutions. Proficient in backend development, API creation, deployment management, and infrastructure. Open to collaboration for building better projects. Let's craft efficient, scalable solutions together!.
 - 💬 Ask me about anything relevant to software engineering, or any more.
-- 📫 Read more of contact me via email abdul23lm@gmail.com.
+- 📫 Contact me via email abdul23lm@gmail.com.
 
 Don't let your imagination rest 🚀
 
