@@ -44,9 +44,5 @@ Don't let your imagination rest 🚀
 
 
 [website]: https://www.techwhizabdul.com
-[facebook]: https://facebook.com/abdul23lm
-[twitter]: https://twitter.com/abdul_lm
 [linkedin]: https://linkedin.com/in/abdul23lm
 [instagram]: https://instagram.com/abdul_lm
-[dribbble]: https://dribbble.com/abdul_lm
-[behance]: https://www.behance.net/abdul_lm
