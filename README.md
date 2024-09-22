@@ -1,6 +1,4 @@
-### Hi there, I am Abdul Latif Munjiat 🤠
-
-You can call me "Abdul"
+### Hi there, I am Abdul 🤠
 
 [![Website](https://img.shields.io/website?label=techwhizabdul.com&style=for-the-badge&url=https://techwhizabdul.com)](https://techwhizabdul.com/)
 
