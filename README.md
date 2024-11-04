@@ -1,6 +1,6 @@
 ### Hi there, I am Abdul 🤠
 
-[![Website](https://img.shields.io/website?label=techwhizabdul.com&style=for-the-badge&url=https://techwhizabdul.com)](https://techwhizabdul.com/)
+[![Website](https://img.shields.io/website?label=codebyabdul.com&style=for-the-badge&url=https://codebyabdul.com)](https://codebyabdul.com/)
 
 ## I'm a Software Engineer!
 
@@ -40,5 +40,5 @@ Don't let your imagination rest 🚀
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdul23lm&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
-[website]: https://www.techwhizabdul.com
+[website]: https://www.codebyabdul.com
 [linkedin]: https://linkedin.com/in/abdul23lm
