@@ -21,7 +21,7 @@ Don't let your imagination rest 🚀
 [![](https://komarev.com/ghpvc/?username=abdul23lm&color=blue&label=Profile%20Views)](https://github.com/abdul23lm/abdul23lm)
 [![](https://img.shields.io/github/followers/abdul23lm?label=GitHub%20Followers)](https://github.com/abdul23lm)
 
-### Focus Techs:
+### Focus Tech:
 
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
