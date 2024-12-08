@@ -10,7 +10,7 @@
 
 Don't let your imagination rest 🚀
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="decodev.id" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="abdul23lm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -21,7 +21,7 @@ Don't let your imagination rest 🚀
 [![](https://komarev.com/ghpvc/?username=abdul23lm&color=blue&label=Profile%20Views)](https://github.com/abdul23lm/abdul23lm)
 [![](https://img.shields.io/github/followers/abdul23lm?label=GitHub%20Followers)](https://github.com/abdul23lm)
 
-### Focus Tech:
+### Focus Tech
 
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
