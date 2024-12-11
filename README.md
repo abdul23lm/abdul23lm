@@ -37,7 +37,7 @@ Don't let your imagination rest 🚀
 <br />
 
 
-### Statistics
+### Statistic
 [![Abdul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdul23lm&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/abdul23lm/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdul23lm&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
