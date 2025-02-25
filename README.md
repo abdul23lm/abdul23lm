@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer!
 
-- 🔥 Experienced software engineer with 5+ years specializing in frontend development. Skilled in crafting visually appealing web applications and mobile solutions. Proficient in backend development, API creation, deployment management, and infrastructure. Open to collaboration for building better projects. Let's craft efficient, scalable solutions together.
+- 🔥 a full-stack software engineer with 5+ years of experience. I work with VueJS, React, Go, Laravel, and Flutter to build scalable applications. I handle the full development process, from design to deployment, and have experience with Docker and server management to ensure smooth performance. I'm eager to solve challenges and help your team succeed.
 - 💬 Ask me anything relevant to software engineering or any more.
 - 📫 Contact me abdul23lm@gmail.com.
 
